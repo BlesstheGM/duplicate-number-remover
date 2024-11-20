@@ -6,10 +6,10 @@
 
 ## 🎈 Usage
 
-1. duplicates.py Searches .txt file
+1. duplicates.py searches random_numbers.txt file
 2. finds any duplicates
 3. removes the duplicates
-4. stores the unique numbers in a new .txt file
+4. stores the unique numbers in a new file_without_duplicates.txt file
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
