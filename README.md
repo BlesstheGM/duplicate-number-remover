@@ -4,14 +4,17 @@
     <br> 
 </p>
 
+## 🎈 Usage
+
 1. duplicates.py Searches .txt file
 2. finds any duplicates
 3. removes the duplicates
 4. stores the unique numbers in a new .txt file
 
-<b>random_numbers.txt<b><br>
-File with random numbers
-<br>
+## ⛏️ Built Using <a name = "built_using"></a>
 
-<b>file_without_duplicates.txt<b><br>
-File with unique values only
+- Python
+  
+## ✍️ Authors <a name = "authors"></a>
+
+- Blessing Hlongwane
